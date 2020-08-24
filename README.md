@@ -1,6 +1,12 @@
 # Awesome Customer Analytics #
 A curated list of awesome customer analytics content aimed at a non-tech business wanting a deeper understanding of the methods and the techniques.
 
+## Update Aug. 24 2020
+- [Customer journey mapping: The path to loyalty](https://www.thinkwithgoogle.com/marketing-resources/experience-design/customer-journey-mapping/)
+- [Adopt new data strategies for better marketing](https://www.thinkwithgoogle.com/marketing-resources/data-measurement/data-driven-marketing-strategy/)
+- [From Soup to Nuts — a HelloFresh UX case study](https://uxdesign.cc/from-soup-to-nuts-a-ux-case-study-8120887fe9cc)
+- [The Meal Kit Delivery Services Market](https://www.packagedfacts.com/Content/Featured-Markets/Meal-Kit-Delivery-Services)
+
 ## Content ##
 - [What is Customer Analytics](#what-is-customer-analytics)
 - [Methods](#methods)
